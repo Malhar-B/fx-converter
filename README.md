@@ -1,7 +1,7 @@
 # FX Converter (Streamlit + Frankfurter)
 
-**Student:** <Your Name>  
-**Student ID:** <Your Student ID>
+**Student:** Malhar Bhavik Brahmbhatt  
+**Student ID:** 26150110
 
 ## What it does
 A Streamlit web app that fetches currency rates from https://www.frankfurter.app and shows:
